@@ -45,8 +45,10 @@
 
 # xhamster.com (Cloudflare Front-end)
 104.16.4.0/24
+88.208.0.0/18
 192.243.32.0/20
 208.91.196.0/22
+108.162.192.0/18
 
 # anysex.com (Cloudflare Front-end)
 172.67.204.0/24
